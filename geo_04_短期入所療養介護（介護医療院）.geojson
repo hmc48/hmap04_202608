@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "geo_04_短期入所療養介護（介護医療院）",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "介護医療院松島みどりの家【短期入所療養介護（介護医療院）】宮城県宮城郡松島町高城字浜1番地26", "url": "https://www.kaigokensaku.mhlw.go.jp/04/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=04B2600015-00&ServiceCd=551&Type=search", "url2": "https://www.matushimahospital.com/kaigoiryouin/" }, "geometry": { "type": "Point", "coordinates": [ 141.0702648, 38.377757 ] } }
+]
+}
