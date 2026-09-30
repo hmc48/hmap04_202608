@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "geo_04_中等教育学校",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::6668" } },
+"features": [
+{ "type": "Feature", "properties": { "P29_001": "04101", "P29_002": "D204221010015", "P29_003": "16003", "P29_004": "仙台市立仙台青陵中等教育学校", "P29_005": "宮城県仙台市青葉区国見ケ丘7-144", "P29_006": "3", "P29_007": "0", "P29_008": "00", "P29_009": null }, "geometry": { "type": "Point", "coordinates": [ 140.83378747355178, 38.288641060964501 ] } }
+]
+}
